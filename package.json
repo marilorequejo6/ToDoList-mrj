@@ -4,15 +4,15 @@
   "description": "A template for HTML and CSS",
   "main": "index.html",
   "scripts": {
-      "start": "serve"
+    "start": "serve"
   },
   "keywords": [
-      "html",
-      "css"
+    "html",
+    "css"
   ],
   "author": "Ives van Hoorne",
   "license": "MIT",
   "dependencies": {
-      "express": "^5.1.0"
+    "express": "^5.1.0"
   }
 }
